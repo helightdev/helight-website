@@ -95,7 +95,7 @@ class VirtualFS {
         return CommandOutput(
             "error", "The directory '$newCursor' doesn't exist");
       }
-      cursor = newCursor;
+      updateCursor(newCursor);
       return CommandOutput("void", "");
     }
 
