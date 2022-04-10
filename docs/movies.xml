@@ -1,0 +1,32 @@
+<root>
+    <description>I don't really watch movies or series but I still liked those</description>
+    <movies>
+        <movie>
+            <name>WALL·E</name>
+            <source>Pixar</source>
+            <rating>10/10 Boot Plants</rating>
+        </movie>
+        <movie>
+            <name>Life of Brian</name>
+            <source>Monty Python</source>
+            <rating>10/10</rating>
+            <note>Got good insiders from there</note>
+        </movie>
+        <movie>
+            <name>Shrek</name>
+            <source>Dreamworks</source>
+            <rating>9/10</rating>
+            <note>-1, because get out of my swamp</note>
+        </movie>
+        <movie>
+            <name>The Holy Grail</name>
+            <source>Monty Python</source>
+            <rating>10/10 Holy Hand Grenades</rating>
+        </movie>
+        <movie>
+            <name>La casa de papel</name>
+            <source>Netflix</source>
+            <rating>8/10</rating>
+        </movie>
+    </movies>
+</root>

@@ -1,0 +1,21 @@
+frontend:
+  - Dart & Flutter (primary)
+  - Kotlin & Jetpack Compose
+  - TypeScript & VueJS
+  - TailwindCss
+
+backend:
+  - Kotlin (primary), Java, C#
+  - SpringBoot (primary), Quarkus, Ktor
+  - Gradle (primary), Maven
+
+devops:
+  versionControl: ["GitHub", "GitLab", "Space"]
+  containers: ["Docker", "Kubernetes"]
+  cicd: ["GitLab CI", "GitHub Workflows"]
+  buildManagement: ["Gradle", "Maven", "NPM", "NuGet"]
+
+databases:
+  relational: ["MySQL", "Postgres"]
+  noSql: ["MongoDB", "Firestore", "Redis"]
+  graph: ["Neo4J"]
